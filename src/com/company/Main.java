@@ -27,9 +27,9 @@ public class Main {
         skeleton2.setDamage(8);
         skeleton2.setName("Black Golum");
         skeleton2.setWeaponOfBoss(skeletonsWeapon);
-        System.out.println(skeleton1.printInfo1());
+        System.out.println(skeleton1.printInfo());
         System.out.println("________________");
-        System.out.println(skeleton2.printInfo1());
+        System.out.println(skeleton2.printInfo());
 
     }
 }
